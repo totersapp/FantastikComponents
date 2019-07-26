@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FantastikComponents_Example' do
+  pod 'FantastikComponents', :path => '../'
+
+  target 'FantastikComponents_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

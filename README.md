@@ -1,0 +1,29 @@
+# FantastikComponents
+
+[![CI Status](https://img.shields.io/travis/Dmitry Koryakin/FantastikComponents.svg?style=flat)](https://travis-ci.org/Dmitry Koryakin/FantastikComponents)
+[![Version](https://img.shields.io/cocoapods/v/FantastikComponents.svg?style=flat)](https://cocoapods.org/pods/FantastikComponents)
+[![License](https://img.shields.io/cocoapods/l/FantastikComponents.svg?style=flat)](https://cocoapods.org/pods/FantastikComponents)
+[![Platform](https://img.shields.io/cocoapods/p/FantastikComponents.svg?style=flat)](https://cocoapods.org/pods/FantastikComponents)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+FantastikComponents is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'FantastikComponents'
+```
+
+## Author
+
+Dmitry Koryakin, dkoryakin@griddynamics.com
+
+## License
+
+FantastikComponents is available under the MIT license. See the LICENSE file for more info.
