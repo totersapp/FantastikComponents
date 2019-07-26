@@ -1,0 +1,16 @@
+PODS:
+  - FantastikComponents (0.1.0)
+
+DEPENDENCIES:
+  - FantastikComponents (from `../`)
+
+EXTERNAL SOURCES:
+  FantastikComponents:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FantastikComponents: 74d02540d41f455e47e8579cf89544f4c7e3c700
+
+PODFILE CHECKSUM: c9e031f2fe5242ad195ce6ae1bbdc105deee414d
+
+COCOAPODS: 1.7.3
